@@ -95,8 +95,20 @@ print("For population =70,000,we predict a profit a profit of $"+str(round(predi
 ```
 
 ## Output:
-![ex03](https://github.com/harish-ragavendra-25/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/114852180/174fc642-b03a-4693-925d-97cb5ed3fef9)
-![Screenshot 2023-09-18 210113](https://github.com/harish-ragavendra-25/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/114852180/26f5a972-09b1-42bb-a3db-f0079057cfec)
+#### profit prediction graph:
+![Screenshot from 2023-10-31 10-02-46](https://github.com/harish-ragavendra-25/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/114852180/a2b3cd78-9d33-499f-826d-212330b878ee)
+#### cost compute value:
+![Screenshot from 2023-10-31 10-03-45](https://github.com/harish-ragavendra-25/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/114852180/c661cf70-630d-47f3-9894-59c7e1100c39)
+#### h(x) value:
+![Screenshot from 2023-10-31 10-04-15](https://github.com/harish-ragavendra-25/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/114852180/f516bf8f-05be-4cf2-825e-6854bf562352)
+#### cost function using gradient descent graph:
+![Screenshot from 2023-10-31 10-04-32](https://github.com/harish-ragavendra-25/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/114852180/c4f7f581-c814-4048-bd9d-e24023986c69)
+#### profit prediction graph:
+![Screenshot from 2023-10-31 10-05-04](https://github.com/harish-ragavendra-25/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/114852180/2a4d0ef6-1638-488e-99f8-53a2bbcd9560)
+#### profit of the population 35,000:
+![Screenshot from 2023-10-31 10-05-32](https://github.com/harish-ragavendra-25/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/114852180/03a16265-6d62-40ae-8c2b-e49706600440)
+#### profit of the poulation 70,000:
+![Screenshot from 2023-10-31 10-06-20](https://github.com/harish-ragavendra-25/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/114852180/31ca62e5-7211-4afa-8451-bc81776842de)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
